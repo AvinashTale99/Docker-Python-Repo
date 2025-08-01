@@ -1,7 +1,3 @@
-Here’s a simple `README.md` file you can use for your **Dockerised Python Hello World** project. It explains the purpose, steps, and Docker commands you've used:
-
----
-
 # Docker-Python-HelloWorld
 
 This project demonstrates how to containerize a basic Python script using Docker.
@@ -44,7 +40,7 @@ touch Dockerfile helloworld.py README.md
 **helloworld.py**
 
 ```python
-print("Hello from Dockerised Python!")
+print ("Hello Everyone....!")
 ```
 
 ### 3. Build and run with Docker
